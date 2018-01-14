@@ -4,3 +4,6 @@
 
 /CoreAng5/.vs/CoreAng5/v15
 /CoreAng5/CoreAng5/obj
+/CoreAng5/CoreAng5/bin/Debug/netcoreapp2.0
+/CoreAng5/CoreAng5/node_modules
+/CoreAng5/CoreAng5/wwwroot/dist
